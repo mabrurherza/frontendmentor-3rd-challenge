@@ -19,6 +19,8 @@ body {
 
   font-family: var(--main-font);
   background-color: #f2edfd;
+
+  overflow-x: hidden;
 }
 
 main {
